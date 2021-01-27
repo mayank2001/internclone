@@ -4,14 +4,17 @@
     font-family: 'Poppins', sans-serif;
 }
 
-.siteLogo {
-    width: 25vh;
-
+.nav-link {
+    color: #1C6FD1;
 }
 
+.sitelogo {
+    width: 25vh;
+}
 
-
-
+.searchicon {
+    width: 20px;
+}
 
 
 @media only screen and (max-width: 500px) {
