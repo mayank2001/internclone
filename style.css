@@ -16,6 +16,28 @@
     width: 20px;
 }
 
+.slogan {
+    color: white;
+    font-size: 42px;
+    font-family: "Open Sans", Arial, sans-serif;
+    display: flex;
+
+}
+
+.slash {
+    height: 50px;
+}
+
+.background {
+    background-color: #002E47;
+    background-image: url(./download.svg);
+    background-repeat: no-repeat;
+    background-position: right;
+    height: 55vh;
+    width: 100vw;
+}
+
+
 
 @media only screen and (max-width: 500px) {
 
